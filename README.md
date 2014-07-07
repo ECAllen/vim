@@ -1,7 +1,7 @@
 vim
 ===
 
-all my vim stuff
+
 
 from http://vimcasts.org/episodes/synchronizing-plugins-with-git-submodules-and-pathogen/
 
